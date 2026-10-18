@@ -1,0 +1,17 @@
+package ec.epn.git.calculator;
+
+public class CalculatorExecute {
+
+    public static void main(String[] args) {
+        System.out.println("==== CALCULATOR EXECUTE =====");
+
+        Calculator c = new Calculator();
+        int addition = c.addition(4, 7);
+        System.out.println("c.addition(4,7) = " + addition);
+
+        int substraction = c.substraction(7, 1);
+        System.out.println("c.substrac(7,1) = " + substraction);
+
+    }
+
+}
