@@ -18,14 +18,13 @@ public class CalculatorExecute {
         System.out.println("This is the change, now a division is made");
         System.out.println("c.division(15,3) = " + division);
 
-<<<<<<< HEAD
 
         // Integrantes del grupo
         System.out.println("Erick Bajaña");
-        System.out.println("Franciel Tipantuña");
-=======
         System.out.println("Anderson Pilataxi");
->>>>>>> c1bf27a (P3: Anderson Pilataxi)
+        System.out.println("Franciel Tipantuña");
+        System.out.println("Andrés Veas");
+
 
     }
 
