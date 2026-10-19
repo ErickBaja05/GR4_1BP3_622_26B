@@ -24,6 +24,7 @@ public class CalculatorExecute {
         System.out.println("Anderson Pilataxi");
         System.out.println("Franciel Tipantuña");
         System.out.println("Andrés Veas");
+        System.out.println("Sabina Zabala");
 
 
     }
