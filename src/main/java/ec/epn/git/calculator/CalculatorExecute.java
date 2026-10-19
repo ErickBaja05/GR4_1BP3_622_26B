@@ -18,6 +18,11 @@ public class CalculatorExecute {
         System.out.println("This is the change, now a division is made");
         System.out.println("c.division(15,3) = " + division);
 
+
+        // Integrantes del grupo
+        System.out.println("Erick Bajaña");
+        System.out.println("Franciel Tipantuña");
+
     }
 
 }
